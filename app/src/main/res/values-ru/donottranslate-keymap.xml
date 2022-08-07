@@ -79,7 +79,7 @@
 
     <string name="key_ad01_main">й</string>
     <string name="key_ad01_shift">Й</string>
-    <string name="key_ad01_alt">1q</string>
+    <string name="key_ad01_alt">1їq</string>
     
     <string name="key_ad02_main">ц</string>
     <string name="key_ad02_shift">Ц</string>
@@ -87,7 +87,7 @@
     
     <string name="key_ad03_main">у</string>
     <string name="key_ad03_shift">У</string>
-    <string name="key_ad03_alt">3e</string>
+    <string name="key_ad03_alt">3ўe</string>
 
     <string name="key_ad04_main">к</string>
     <string name="key_ad04_shift">К</string>
@@ -95,7 +95,7 @@
     
     <string name="key_ad05_main">е</string>
     <string name="key_ad05_shift">Е</string>
-    <string name="key_ad05_alt">5t</string>
+    <string name="key_ad05_alt">5єt</string>
     
     <string name="key_ad06_main">н</string>
     <string name="key_ad06_shift">Н</string>
@@ -103,7 +103,7 @@
 
     <string name="key_ad07_main">г</string>
     <string name="key_ad07_shift">Г</string>
-    <string name="key_ad07_alt">7u</string>
+    <string name="key_ad07_alt">7ґu</string>
     
     <string name="key_ad08_main">ш</string>
     <string name="key_ad08_shift">Ш</string>
@@ -123,7 +123,7 @@
     
     <string name="key_ad12_main">ъ</string>
     <string name="key_ad12_shift">Ъ</string>
-    <string name="key_ad12_alt">*~]}</string>
+    <string name="key_ad12_alt">´*~]}</string>
 
     <string name="key_bksl_main">\\</string>
     <string name="key_bksl_shift">/</string>
@@ -197,7 +197,7 @@
 
     <string name="key_ab05_main">и</string>
     <string name="key_ab05_shift">И</string>
-    <string name="key_ab05_alt">b</string>
+    <string name="key_ab05_alt">іb</string>
 
     <string name="key_ab06_main">т</string>
     <string name="key_ab06_shift">Т</string>
